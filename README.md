@@ -117,6 +117,11 @@ Through this project, I learned:
 * Real-time speech processing
 * AI safety and privacy principles
 * Tool integration using MCP
+* 📸 Demo
+
+https://drive.google.com/file/d/1z7M9J9U4jrD4Npq13JbPyuAvYgRzecRB/view?usp=drive_link
+
+
 
 ---
 
